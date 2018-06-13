@@ -3835,7 +3835,7 @@
     ["luadist-hello"] = {
       ["1.0-0"] = {
         dependencies = {
-          "lua ~> 5.3"
+          "lua >= 5.1, <= 5.3"
         }
       }
     },
